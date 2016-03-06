@@ -1,14 +1,14 @@
-## NAME
-youtube-dlG - GUI for youtube-dl
+## Youtube-dl-gui Fork
+A fork of youtube-dl-gui
 
 ## DESCRIPTION
 A cross platform front-end GUI of the popular youtube-dl 
 written in wxPython.
 
 ## SCREENSHOT
-![Youtube-dl-gui main window](http://i.imgur.com/I4oXPWs.png)
+![Youtube-dl-gui main window](http://i.imgur.com/Remd0pN.jpg)
 
-![Options window](http://i.imgur.com/eShdoLD.png)
+![Options window](http://i.imgur.com/uVpzpcbl.jpg)
 
 ## INSTALLATION
 
